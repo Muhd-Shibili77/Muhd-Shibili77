@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [SnapCart](https://snapcart.click)
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://shibili888.github.io/Muhd_Shibili/](https://shibili888.github.io/Muhd_Shibili/)
 
