@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shibili888.github.io/Muhd_Shibili/](https://shibili888.github.io/Muhd_Shibili/)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODEJS,MONGODB**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODEJS,MONGODB,REACT,POSTGRESQL,DATA STRUCTURE & ALOGORITHM**
 
 - 📫 How to reach me **shibilishanu888@gmail.com**
 
